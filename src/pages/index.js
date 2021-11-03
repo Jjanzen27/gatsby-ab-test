@@ -27,13 +27,13 @@ const IndexPage = () => {
         Welcome
         <span style={headingAccentStyles}> — this site was made using Gastby and React </span>
         <span role="img" aria-label="Party popper emojis">
-          😶‍🌫️😾🦾🧙🏿‍♂️🧙🏿‍♂️
+          🦀
         </span>
       </h1>
       <p style={paragraphStyles}>
         This page is going to be used for A/B testing
         <span role="img" aria-label="Sunglasses smiley emoji">
-          🥸
+          🦑
         </span>
       </p>
       <h1>This is <em style={headingAccentStyles}>version B</em></h1>
