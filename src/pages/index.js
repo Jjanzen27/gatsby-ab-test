@@ -24,7 +24,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Gatsby Site</title>
       <h1 style={headingStyles}>
-        Welcome
+        ...Welcome... 
         <span style={headingAccentStyles}> — this site was made using Gastby and React </span>
         <span role="img" aria-label="Party popper emojis">
           🎳
