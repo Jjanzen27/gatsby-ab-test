@@ -16,7 +16,8 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby-plugin-s3 deploy --yes; export AWS_PAGER=\"\"; aws cloudfront create-invalidation -- distribution-id EYTL404KDJZ6A --paths '/*';"
   },
   "dependencies": {
     "gatsby": "^4.0.2",
