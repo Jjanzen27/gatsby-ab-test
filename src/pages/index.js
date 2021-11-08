@@ -33,7 +33,7 @@ const IndexPage = () => {
       <p style={paragraphStyles}>
         This page is going to be used for A/B testing
         <span role="img" aria-label="Sunglasses smiley emoji">
-          😎🐠🥪
+        🕶🦤🎠🗜
         </span>
       </p>
       <h1>This is <em style={headingAccentStyles}>version A</em></h1>
