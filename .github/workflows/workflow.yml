@@ -17,7 +17,7 @@ jobs:
         with:
           version: 14.x
       - run: npm install
-      - run: NODE_ENV=production gatsby build
+      - run: NODE_ENV=production npm run build
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
