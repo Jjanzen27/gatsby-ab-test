@@ -24,16 +24,16 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Gatsby Site</title>
       <h1 style={headingStyles}>
-        🪤Welcome 💰
-        <span style={headingAccentStyles}>WILL THIS FUCKING WORK???</span>
+        💿 Welcome 💿
+        <span style={headingAccentStyles}></span>
         <span role="img" aria-label="Party popper emojis">
-          🎳🛼🌮
+          It's a beautiful day ⛵️
         </span>
       </h1>
       <p style={paragraphStyles}>
         This page is going to be used for A/B testing
         <span role="img" aria-label="Sunglasses smiley emoji">
-        🕶🦤🎠🗜
+        🎷🎷🎷🎷🎷
         </span>
       </p>
       <h1>This is <em style={headingAccentStyles}>version A</em></h1>
